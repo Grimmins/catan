@@ -2,7 +2,7 @@
 
 Bienvenue dans notre projet Catan ! Ce projet a été développé par :
 
-- Lùkas Koltes
+- Lùkas Koltès
 - Amaël Mangeant Sastre Campos
 - Lucas Verriere-Aboud
 - Léo Vernicos
